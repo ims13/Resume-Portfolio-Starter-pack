@@ -1,0 +1,190 @@
+
+{
+  "main": {
+    "name": "Idriss Lufungula",
+    "occupation": "Student at Seneca Polytechnic",
+    "description": "The only way to do great work is to love what you do.",
+    "image": "idriss.png",
+    "bio": "Hi there! I am Idriss! I am currently in my final year of the Computer Programming and Analysis program at Seneca Polytechnic. I have built a strong foundation in programming languages such as C, C++, and Python, and have gained experience in developing web applications using React, Next.js, JavaScript, Node.js, and ASP.NET. My passion for technology extends beyond the classroom, and I am continuously expanding my knowledge in advanced fields like Machine Learning, leveraging tools such as TensorFlow, Numpy, and PyTorch. I am a proactive learner and a collaborative team player, eager to contribute to innovative development projects",
+    "contactmessage": "Get in touch with me to discuss potential opportunities!",
+    "email": "imsba13@gmail.com",
+    "phone": "+306 2270 413",
+    "address": {
+      "street": "71 Willowmount Dr",
+      "city": "Toronto",
+      "state": "Ontario",
+      "zip": "M1L 1Y2"
+    },
+    "website": "idriss-portfolio.vercel.app",
+    "resumedownload": "/resume/Bahati_Lufungula_2.pdf",
+    
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/watch?v=SC9Hnu92IJY",
+        "className": "fab fa-youtube"
+      },
+      {
+        "name": "discord",
+        "url": "https://discordapp.com/users/807277768697970730",
+        "className": "fab fa-discord"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/idriss-l-a0361a205/",
+        "className": "fab fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/imsmas13/",
+        "className": "fab fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ims13",
+        "className": "fab fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Seneca Polytechnic",
+        "degree": "Computer Programming and Analysis",
+        "graduated": "comming october, 2024",
+        "description": "Graduate with Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "HomeServices Hub",
+        "title": "Founder and CEO",
+        "years": "January 2024 - Present",
+        "description": "Developed a full-stack application using Next.js, MongoDB, Vercel, GitHub, Clerk Auth, and Notion"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "C/C++",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "Next.js",
+        "level": "80%"
+      },
+      {
+        "name": "Express.js",
+        "level": "75%"
+      },
+      {
+        "name": "Redux.js",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      },
+      {
+        "name": "MySQL",
+        "level": "70%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "70%"
+      },
+      {
+        "name": "Hygraph",
+        "level": "60%"
+      },
+      {
+        "name": "Microsoft Azure",
+        "level": "65%"
+      },
+      {
+        "name": "AWS",
+        "level": "60%"
+      },
+      {
+        "name": "Vercel",
+        "level": "80%"
+      },
+      {
+        "name": "Heroku",
+        "level": "60%"
+      },
+      {
+        "name": "Netlify",
+        "level": "60%"
+      },
+      {
+        "name": "Git & GitHub",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Rent-US design with figma",
+        "category": "",
+        "image": "rentUs.png",
+        "url": "https://www.youtube.com/watch?v=SC9Hnu92IJY"
+      },
+      {
+        "title": "HomeServices Hub",
+        "category": "",
+        "image": "homeservice-hb.png",
+        "url": "https://homeservices-hub.vercel.app"
+      },
+      {
+        "title": "Python AI Game enhancement",
+        "category": "",
+        "image": "python_game.png",
+        "url": "https://www.youtube.com/watch?v=t4GarEjGavY&list=PL5KbXZcv13jGnkwKrxPjqYNFm9Dyw9KES"
+      },
+      {
+        "title": "Metropolitan Museum App",
+        "category": "",
+        "image": "meseum.png",
+        "url": "https://inquisitive-tapioca-39939f.netlify.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Idriss is an exceptional developer with a great ability to learn and apply new skills quickly. His contributions to our projects have been invaluable.",
+        "user": "Fausto Gustavo"
+      },
+      {
+        "text": "Working with Idriss has been a fantastic experience. His proficiency in React and enthusiasm for technology make him a great team player",
+        "user": "HariKrishna Patel"
+      }
+    ]
+  }
+}
